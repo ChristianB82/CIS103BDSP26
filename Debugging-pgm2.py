@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  5 10:18:47 2026
 
-@author: chris
+@author: CHRISTIAN BAHAMON
 """
 
 # property tax program calculator 2
