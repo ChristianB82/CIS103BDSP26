@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+@author Christian Bahamon
 
 # property tax calculator 1
 def part1():
