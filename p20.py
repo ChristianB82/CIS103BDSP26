@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 28 10:18:05 2026
 
-@author: h"""
+@author: Christian Bahamon"""
 
 import turtle
 
